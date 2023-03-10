@@ -8,3 +8,4 @@ echo 바이러스 입니다.
 echo 감사합니다.
 
 pause
+pause
